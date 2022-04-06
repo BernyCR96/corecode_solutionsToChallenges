@@ -4,6 +4,6 @@
 
 Warm up Javascript exercises before React exercises
 
-* [Tuesday](Tuesday/)
+* [Tuesday](Week1/Tuesday/)
   - [Ensure question](Week1/Tuesday/ensureQuestion.js)
-  - [Reverse sentence](Week1/Tuesday/ReverseWords.js)
+  - [Reverse sentence](Week1/Tuesday/reverseWords.js)
