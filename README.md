@@ -9,7 +9,7 @@ Warm up Javascript exercises before React exercises
   - [Reverse sentence](Week1/Tuesday/reverseWords.js)
 
 * [Wednesday](Week1/Wednesday/)
-  - [Ensure question](Week1/Wednesday/SmallestIntegerInArray.js)
+  - [SmallestIntegerInArray](Week1/Wednesday/SmallestIntegerInArray.js)
 
-* [Thursday](Week1/Thursday/)
-  - [Ensure question](Week1/Thursday/oddOrEven.js)
+* [Thursday](Week1/thursday/)
+  - [oddOrEven](Week1/thursday/oddOrEven.js)
